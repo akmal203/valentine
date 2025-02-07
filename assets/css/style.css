@@ -79,7 +79,7 @@ body {
   min-height: 100vh;
   display: grid;
   place-content: center;
-  background: #f8f6f1;
+  background: antiquewhite;
   overflow: hidden;
 }
 
